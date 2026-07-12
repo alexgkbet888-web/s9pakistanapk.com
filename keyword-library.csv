@@ -1,0 +1,81 @@
+id,keyword,intent,priority,page_type,target_page,last_modified,source
+1,s9 game apk,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+2,s9 APK version Pakistan,core,P1,homepage/pillar,/,2026-06-28,sop-full-audit
+3,latest s9 apk,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+4,s9 apk update failed,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+5,s9 apk signature check,long-tail,P1,supporting article,/blog/,2026-06-28,sop-full-audit
+6,s9 Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+7,s9 game Pakistan,brand,P1,homepage,/,2026-06-28,sop-full-audit
+8,S9 APK Source Desk support,brand,P2,support,/support/,2026-06-28,sop-full-audit
+9,S9 APK Source Desk FAQ,brand,P2,faq,/faq/,2026-06-28,sop-full-audit
+10,s9 latest apk Pakistan,category,P1,hub/category,/latest-apk/,2026-06-28,sop-full-audit
+11,s9 old version Pakistan,category,P1,hub/category,/old-version/,2026-06-28,sop-full-audit
+12,s9 file size Pakistan,category,P1,hub/category,/file-size/,2026-06-28,sop-full-audit
+13,s9 apk permission Pakistan,category,P1,hub/category,/apk-permission/,2026-06-28,sop-full-audit
+14,how to check latest s9 apk version,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+15,why s9 apk update failed,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+16,how to fix s9 apk parse error,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+17,is old s9 apk version risky,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+18,what permissions should s9 apk request,question,P1,faq/article,/faq/,2026-06-28,sop-full-audit
+19,s9 latest apk vs old apk,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+20,s9 apk file size comparison,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+21,s9 apk source vs mirror site,comparison,P2,comparison/article,/blog/,2026-06-28,sop-full-audit
+22,s9 game apk Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+23,s9 game apk PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+24,s9 game apk Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+25,s9 game apk mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+26,s9 game apk H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+27,s9 game apk 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+28,s9 game apk guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+29,s9 game apk checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+30,s9 game apk fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+31,s9 game apk not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+32,s9 game apk latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+33,s9 game apk support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+34,s9 APK version Pakistan Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+35,s9 APK version Pakistan PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+36,s9 APK version Pakistan Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+37,s9 APK version Pakistan mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+38,s9 APK version Pakistan H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+39,s9 APK version Pakistan 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+40,s9 APK version Pakistan guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+41,s9 APK version Pakistan checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+42,s9 APK version Pakistan fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+43,s9 APK version Pakistan not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+44,s9 APK version Pakistan latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+45,s9 APK version Pakistan support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+46,latest s9 apk Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+47,latest s9 apk PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+48,latest s9 apk Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+49,latest s9 apk mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+50,latest s9 apk H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+51,latest s9 apk 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+52,latest s9 apk guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+53,latest s9 apk checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+54,latest s9 apk fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+55,latest s9 apk not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+56,latest s9 apk latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+57,latest s9 apk support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+58,s9 apk update failed Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+59,s9 apk update failed PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+60,s9 apk update failed Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+61,s9 apk update failed mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+62,s9 apk update failed H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+63,s9 apk update failed 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+64,s9 apk update failed guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+65,s9 apk update failed checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+66,s9 apk update failed fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+67,s9 apk update failed not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+68,s9 apk update failed latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+69,s9 apk update failed support,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+70,s9 apk signature check Pakistan,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+71,s9 apk signature check PK,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+72,s9 apk signature check Android,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+73,s9 apk signature check mobile,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+74,s9 apk signature check H5,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+75,s9 apk signature check 2026,regional/local,P2,article,/blog/,2026-06-28,sop-full-audit
+76,s9 apk signature check guide,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+77,s9 apk signature check checklist,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+78,s9 apk signature check fix,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+79,s9 apk signature check not working,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit
+80,s9 apk signature check latest update,tutorial/problem,P2,article,/blog/,2026-06-28,sop-full-audit

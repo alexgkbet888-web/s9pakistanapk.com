@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "s9pakistanapk.com",
+  "brand": "S9 APK Source Desk",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "S9-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://s9pakistanapk.com/",
+  "siteType": "authority",
+  "positioning": "S9 APK version, source, file-size and update safety authority for Pakistan users",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "s9 game apk",
+    "s9 APK version Pakistan"
+  ],
+  "secondaryKeywords": [
+    "latest s9 apk",
+    "s9 apk update failed",
+    "s9 apk signature check"
+  ],
+  "technical": {
+    "sitemapUrl": "https://s9pakistanapk.com/sitemap.xml",
+    "robotsUrl": "https://s9pakistanapk.com/robots.txt",
+    "feedUrl": "https://s9pakistanapk.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:s9pakistanapk.com",
+    "connected": false
+  }
+}
